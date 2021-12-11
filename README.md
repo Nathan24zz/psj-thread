@@ -12,7 +12,7 @@
 ./server_main.out <SERVER PORT>
 ```
 
-### Run SClient
+### Run Client
 ```sh
 ./client.out <SERVER PORT> <client_name>
 ```
